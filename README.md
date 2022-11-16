@@ -5,12 +5,11 @@ Here you can find  some of my testing projects
 Jovenes a Programar (230hs):**
 
   Test cases, equivalence classes, incident reports, regression tests and test reports.
-  
-* **Jira from scratch - Coursera (9hs):**
 
   Create an agile project in Jira, set up and manage a Kanban board.
   
 ## Tools
+ Create an agile projects, set up and manage a Kanban boar in:
 * test link
 * Jira
 * MantisBT
